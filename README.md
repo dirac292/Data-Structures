@@ -18,4 +18,3 @@ A reference for various Data structures and algorithms in C++ with their impleme
 - Graphs
 - Hash Map
 
-- Checking if ssh setup working
