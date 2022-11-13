@@ -17,3 +17,5 @@ A reference for various Data structures and algorithms in C++ with their impleme
 - Binary Search Tree
 - Graphs
 - Hash Map
+
+- Checking if ssh setup working
